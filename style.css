@@ -1,0 +1,9 @@
+body{
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   min-height: 100vh;
+   background-color: #4a9b77;
+
+}
